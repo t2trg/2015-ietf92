@@ -41,7 +41,7 @@
 
 * (Industry view, TBA)
 * Andy Bierman: RESTCONF and COMI
-* __
+* Thomas Watteyne: Determinism in the IoT: the example of 6TiSCH and OpenWSN
 
 ## 13:00—14:30 Wrapup
 
