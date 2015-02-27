@@ -33,6 +33,7 @@
 
 * Michael Koster: ...pub/sub...
 * (Industry view, TBA)
+* Thomas C. Schmidt: Programming the IoT with C++ Actors
 * __
 
 ## 11:00—12:30 Shaping the future III
