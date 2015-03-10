@@ -27,21 +27,24 @@ The Fairmont Dallas (with IETF92), Room "Far East"
 ### Security Life Cycle
 
 * Marian Margraf's group: Usable Security
-* (Industry view, TBA)
+* Oliver Pfaff (via Carsten Bormann): Research Questions for Security in IoT
 * __
 
 # Sunday
 
-## 09:00—10:30 Shaping the future II
+## 09:00—10:45 Shaping the future II
+
+### Security Life Cycle, continued
+
+* Sandeep Kumar: (industry point of view of the security lifecycle)
 
 ### REST beyond HTTP — exploring the state/event duality
 
 * Michael Koster: ...pub/sub...
-* (Industry view, TBA)
+* Andreas Scholz: Challenges
 * Thomas C. Schmidt: Programming the IoT with C++ Actors
-* __
 
-## 11:00—12:30 Shaping the future III
+## 11:15—12:45 Shaping the future III
 
 ### Managing the IoT
 
@@ -49,7 +52,7 @@ The Fairmont Dallas (with IETF92), Room "Far East"
 * Andy Bierman: RESTCONF and COMI
 * Thomas Watteyne: Determinism in the IoT: the example of 6TiSCH and OpenWSN
 
-## 13:00—14:30 Wrapup
+## 13:15—14:45 Wrapup
 
 * (Chairs): What do we need for a Research Group?
 * (All): Subjects for focus; deliverables
