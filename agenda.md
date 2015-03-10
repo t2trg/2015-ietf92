@@ -1,3 +1,8 @@
+# Thing-to-Thing Proposed Research Group
+
+First meeting 2015-03-21..-22
+The Fairmont Dallas (with IETF92), Room "Far East"
+
 # Saturday
 
 ## 13:00—14:30 Overview
@@ -40,7 +45,7 @@
 
 ### Managing the IoT
 
-* (Industry view, TBA)
+* Ana Hedanping: Parameters to be monitored for IoT
 * Andy Bierman: RESTCONF and COMI
 * Thomas Watteyne: Determinism in the IoT: the example of 6TiSCH and OpenWSN
 
