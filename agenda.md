@@ -19,7 +19,7 @@ The Fairmont Dallas (with IETF92), Room "Far East"
 ### IoT Consortia view on research (Keynotes)
 
 * Daniel Park: OIC and IoTivity
-* __
+* Philip DesAutels (tentative): AllSeen and AllJoyn
 * __
 
 ## 16:30—18:00 Shaping the future I
@@ -40,8 +40,8 @@ The Fairmont Dallas (with IETF92), Room "Far East"
 
 ### REST beyond HTTP — exploring the state/event duality
 
-* Michael Koster: ...pub/sub...
-* Andreas Scholz: Challenges
+* Michael Koster: Publish-Subscribe Broker for CoAP
+* Andreas Scholz: Creating Automation Systems out of Things with REST
 * Thomas C. Schmidt: Programming the IoT with C++ Actors
 
 ## 11:15—12:45 Shaping the future III
