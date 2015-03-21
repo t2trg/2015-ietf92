@@ -33,6 +33,13 @@ The Fairmont Dallas (with IETF92), Room "Far East"
 * 21 Oliver Pfaff (via Carsten Bormann): Research Questions for Security in IoT
 * __
 
+## Dinner
+
+<https://www.google.com/maps/place/El+Fenix/@32.787582,-96.804813,15z/data=!4m2!3m1!1s0x0:0xde254b69a6081f22>
+
+19:15 at fairmont lobby; 19:30 at the restaurant (Kerry Lynn made the reservation)
+
+
 # Sunday
 
 ## 09:00—10:45 Shaping the future II
