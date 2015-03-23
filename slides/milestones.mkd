@@ -2,40 +2,42 @@
 
 ## General
 
-* Evaluation/reference Framework
-(< 5 common ones)
-cf. Design Patterns...
-Technical parameters of scenarios/use cases (number of nodes, offered load, ...)
-(link them to testbeds/make them useful for comparison)
-(*Thomas, Dominique, Peter, Ana, Georgios, Diego)
+1. Evaluation/reference Framework
+    * (< 5 common ones)
+    * cf. Design Patterns...
+    * Technical parameters of scenarios/use cases (number of nodes, offered load, ...)
+      (link them to testbeds/make them useful for comparison)
+    * (*Thomas, Dominique, Peter, Ana, Georgios, Diego)
 
 ## Terminology
 
-* Lifecycle
-  * as it applies to security
-  draft-garcia-core-security
-  (*Sandeep, Hannes, Göran, Kerry, Ari, Ana, Emmuannel,
-  Georgios, Hao...)
+2. Lifecycle
+    * as it applies to security
+    * draft-garcia-core-security
+    * (*Sandeep, Hannes, Göran, Kerry, Ari, Ana, Emmuannel,
+       Georgios, Hao...)
 
-* REST-as-we-use-it (including management)
-Origin state, ...
-  * Carsten, *Michael, *Matthias, Laurent, Andreas, Simon,
-  * Management: Andy, Mehmet, Ana, Georgios, Hannes
-  Map examples to REST, a consistent state/event model
-  How are we {b,ext}ending REST?
+3. REST-as-we-use-it (including management)
+    * Origin state, ...
+    * Carsten, *Michael, *Matthias, Laurent, Andreas, Simon,
+    * Management: Andy, Mehmet, Ana, Georgios, Hannes
+    * Map examples to REST, a consistent state/event model
+    * How are we {b,ext}ending REST?
 
-* Data privacy, selective privacy
-  (*Hannes, Kerry, Sandeep, Carsten) draft-jennings-perpass-secure-rai-cloud-01.txt
+4. Data privacy, selective privacy
+    * (*Hannes, Kerry, Sandeep, Carsten)
+    * draft-jennings-perpass-secure-rai-cloud-01.txt
 
 ### Back burner:
 
-* OOB mech for RPK verification
-  (*Hannes to create overview pres, Ari)
+5. OOB mechanism for RPK verification
+    * (*Hannes to create overview pres, Ari)
 
 ### Ongoing:
 
-* Collect and publish research questions, open issues
-  (*Carsten, Kerry) relates to Ev. frw discussion
+6. Collect and publish research questions, open issues
+    * (*Carsten, Kerry)
+    * relates to Evaluation framework discussion
 
 
 # Freezer
