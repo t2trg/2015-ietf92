@@ -11,8 +11,8 @@
    - Architectures with (caching) intermediaries
 - Consistent state/event model
    - Observe (send states not events)
-	 - PubSub
-	 - Message queuing (message vs representation level)
+   - PubSub
+   - Message queuing (message vs representation level)
 - Management approaches
    - CoMI
    - RESTCONF
