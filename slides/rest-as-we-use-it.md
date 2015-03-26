@@ -32,8 +32,8 @@
    - Make CoRE Interfaces clear as one example/pattern
 - Consistent state/event model
    - *Observe*: (send states not events)
-   - *PubSub*: PUT vs PUSH vs Notify; eliminate conflict with PubSub terminology
-   - *Message queuing*: message vs representation level; ETags to define where in message queue?
+   - *PubSub*: PUT vs PUSH vs Notify; eliminate conflict with PubSub terminology; clarify appropriate use cases
+   - *Message queuing*: message vs representation level; ETags to define where in message queue?; link relations to prev/next for series?
 - Management approaches
    - CoMI
    - RESTCONF
@@ -48,7 +48,7 @@ Reading Roy Fielding's thesis appears to be a good prerequisite for a discussion
 
 ### General
 
-- How to set up a proxy: dynamic scaling of the network; redirects 
+- How to set up a proxy: dynamic scaling of the network; redirects
 - Proxyless PubSub (multicast PUT) -- requires consistent state/event model first
 - Multicast notifications (group registrations to observable resources)
 - Unsolicited notifications
@@ -61,7 +61,7 @@ Reading Roy Fielding's thesis appears to be a good prerequisite for a discussion
 ### Management
 
 - What is the minimal information a monitoring server needs to look at to have a clear view of the status of a network
-- Can we imagine some work on defining the data model of (1) RPL and (2) generic values like neighbor table. Data models exist for 6TiSCh and 6LoWPAN, but nothing past that
+- Can we imagine some work on defining the data model of (1) RPL and (2) generic values like neighbor table. Data models exist for 6TiSCH and 6LoWPAN, but nothing past that
 - Alarm messages (PUSH notifications when stuff goes really wrong)
 - New Internet Media Types
 - Dynamic QoS management: (rat-hole warning by Kerry) mapping from app/process level down to network; fire alarm priority; network virtualization in constrained networks?
